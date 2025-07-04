@@ -21,7 +21,7 @@ network:
       nameservers:
         addresses: [10.129.19.5,10.129.19.4]
         search:
-        - unilab.edu.br
+        - teste.edu.br
       routes:
       - to: default
         via: ip_gw
